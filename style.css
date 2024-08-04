@@ -1,4 +1,4 @@
-* {
+9* {
 	padding: 0;
 	margin: 0;
 	box-sizing: border-box;
@@ -967,7 +967,7 @@ section {
     margin-bottom: 20px;
     border: none;
     border-radius: 5px;
-    background-color: var(--box-color);
+    background-color: var(--background-color);
     color: var(--text-color);
 }
 
