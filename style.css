@@ -122,6 +122,7 @@ section {
 	align-items: center;
 	overflow: hidden;
 	padding: 50px 20px;
+overflow-x: hidden;
 }
 
 .home .container {
@@ -285,6 +286,7 @@ section {
     padding: 60px 20px;
     background-color: var(--background-color-light);
     box-shadow: var(--box-shadow);
+overflow-x: hidden;
 }
 
 
@@ -549,6 +551,7 @@ section {
     color: var(--text-color);
     animation: fadeIn 1s;
     background-color: var(--background-color-light);
+overflow-x: hidden;
 }
 
 .services h2 {
@@ -848,6 +851,7 @@ section {
     padding: 50px 20px;
     background-color: var(--background-color-light);
     color: var(--text-color);
+overflow-x: hidden;
 }
 
 .contact h2 {
@@ -1042,6 +1046,7 @@ section {
     text-align: center;
     color: var(--text-color-light);
     border-top: 1px solid var(--background-color-light);
+overflow-x: hidden;
 }
 
 
