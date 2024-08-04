@@ -35,7 +35,6 @@ html {
 
 body {
 	font-family: "Roboto", sans-serif;
- overflow-x: hidden;
 }
 
 header {
@@ -968,7 +967,7 @@ section {
     margin-bottom: 20px;
     border: none;
     border-radius: 5px;
-    background-color: var(--background-color);
+    background-color: var(--box-color);
     color: var(--text-color);
 }
 
