@@ -1,4 +1,4 @@
-9* {
+* {
 	padding: 0;
 	margin: 0;
 	box-sizing: border-box;
@@ -35,6 +35,7 @@ html {
 
 body {
 	font-family: "Roboto", sans-serif;
+ overflow-x: hidden;
 }
 
 header {
