@@ -108,8 +108,7 @@ header .navbar ul li a.active {
 section {
 	min-height: 100vh;
 	color: var(--text-color);
-    animation: fadeIn 1s;
-
+    overflow-x: hidden;
 }
 
 
@@ -981,7 +980,6 @@ section {
 .contact-form input[type="submit"]:hover {
     background-color: #0056b3;
 }
-
 /* Responsive adjustments */
 @media (max-width: 1024px) {
     .contact-form {
